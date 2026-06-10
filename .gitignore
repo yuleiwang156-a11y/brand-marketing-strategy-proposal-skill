@@ -1,0 +1,14 @@
+.DS_Store
+inputs/
+outputs/
+backups/
+MEMORY.md
+agent_memory/
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+*.zip
+.env
+.env.*
+node_modules/
